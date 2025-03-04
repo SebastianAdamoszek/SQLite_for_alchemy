@@ -30,6 +30,11 @@ python app.py
 ## Opis działania
 Skrypt `app.py` wykorzystuje SQLite do zarządzania danymi. Tworzy bazę danych, definiuje tabelę użytkowników i dodaje przykładowe wpisy.
 
+## Dla podglądu pliku - bazy danych .db
+```
+zainstaluj wtyczkę np.SQLite Viewer
+```
+
 ## Struktura plików
 ```
 SQLite_test/
