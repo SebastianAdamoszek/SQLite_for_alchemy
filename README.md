@@ -40,8 +40,8 @@ zainstaluj wtyczkę np.SQLite Viewer
 SQLite_for_alchemy/
 ├── database/
 │   └── test.db         # Plik bazy danych (tworzony automatycznie)
-    └── plik1.db        # Plik bazy danych (tworzony automatycznie)
-    └── plik2.db        # Plik bazy danych (tworzony automatycznie)
+|   └── plik1.db        # Plik bazy danych (tworzony automatycznie)
+|   └── plik2.db        # Plik bazy danych (tworzony automatycznie)
 ├── app.py              # Główny skrypt aplikacji
 ├── requirements.txt    # Lista zależności
 └── README.md           # Instrukcja
