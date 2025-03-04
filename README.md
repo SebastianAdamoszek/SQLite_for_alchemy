@@ -37,11 +37,15 @@ zainstaluj wtyczkę np.SQLite Viewer
 
 ## Struktura plików
 ```
-SQLite_test/
-│── app.py              # Główny skrypt aplikacji
-│── requirements.txt    # Lista zależności
-│── test.db             # Plik bazy danych (tworzony automatycznie)
-│── README.md           # Instrukcja
+SQLite_for_alchemy/
+├── database/
+│   └── test.db         # Plik bazy danych (tworzony automatycznie)
+    └── plik1.db        # Plik bazy danych (tworzony automatycznie)
+    └── plik2.db        # Plik bazy danych (tworzony automatycznie)
+├── app.py              # Główny skrypt aplikacji
+├── requirements.txt    # Lista zależności
+└── README.md           # Instrukcja
+
 ```
 
 ## Weryfikacja zawartości bazy danych
