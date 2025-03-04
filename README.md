@@ -3,7 +3,7 @@
 ## Klonowanie repozytorium
 Aby rozpocząć, sklonuj repozytorium do lokalnego katalogu:
 ```bash
-git clone https://github.com/SebastianAdamoszek/SQLite_test.git
+git clone https://github.com/SebastianAdamoszek/SQLite_for_alchemy.git
 cd SQLite_test
 ```
 
